@@ -10263,3 +10263,216 @@ Existing_entries: 35
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2024-08-06 12:05:31.179223
+------------------------------------------------------
+Started: 2024-08-06 14:03:42.564773
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-06 14:03:42.888497
+------------------------------------------------------
+Started: 2024-08-06 16:03:49.735255
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-06 16:03:49.980424
+------------------------------------------------------
+Started: 2024-08-06 18:04:52.798236
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-06 18:04:53.297508
+------------------------------------------------------
+Started: 2024-08-06 20:04:17.174207
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-06 20:04:17.752372
+------------------------------------------------------
+Started: 2024-08-06 22:03:47.989876
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-06 22:03:48.534014
+------------------------------------------------------
+Started: 2024-08-07 00:12:41.122882
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-07 00:12:41.687885
+------------------------------------------------------
+Started: 2024-08-07 02:18:29.579240
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-07 02:18:30.146055
+------------------------------------------------------
+Started: 2024-08-07 04:07:18.350282
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-07 04:07:18.896682
+------------------------------------------------------
+Started: 2024-08-07 06:04:59.513323
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-07 06:04:59.915897
+------------------------------------------------------
+Started: 2024-08-07 08:06:01.155254
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-07 08:06:01.578785
+------------------------------------------------------
+Started: 2024-08-07 10:04:51.091597
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-07 10:04:51.700012
+------------------------------------------------------
+Started: 2024-08-07 12:06:32.564589
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-07 12:06:33.068700
+------------------------------------------------------
+Started: 2024-08-07 14:03:54.459321
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-07 14:03:54.739354
+------------------------------------------------------
+Started: 2024-08-07 16:04:25.065595
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-07 16:04:25.564068
+------------------------------------------------------
+Started: 2024-08-07 18:04:31.584476
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-07 18:04:32.122071
+------------------------------------------------------
+Started: 2024-08-07 20:04:40.897645
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-07 20:04:41.494963
+------------------------------------------------------
+Started: 2024-08-07 22:04:43.970111
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-07 22:04:44.470164
+------------------------------------------------------
+Started: 2024-08-08 00:12:43.816918
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-08 00:12:44.102485
+------------------------------------------------------
+Started: 2024-08-08 02:17:57.497964
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-08 02:17:57.730471
+------------------------------------------------------
+Started: 2024-08-08 04:05:14.536146
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-08 04:05:15.103736
+------------------------------------------------------
+Started: 2024-08-08 06:05:08.672429
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-08 06:05:09.100615
+------------------------------------------------------
+Started: 2024-08-08 08:05:04.683078
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-08 08:05:05.184594
+------------------------------------------------------
+Started: 2024-08-08 10:04:55.946785
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-08 10:04:56.394251
+------------------------------------------------------
+Started: 2024-08-08 12:05:42.447305
+Existing_entries: 35
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 529 - {'error': {'message': 'Overloaded (request id: 2024080813054911159468530663646)', 'type': 'overloaded_error', 'param': '', 'code': None}}
+Append: [The Curse of Knowledge](https://nesslabs.com/curse-of-knowledge?utm_source=rss&utm_medium=rss&utm_campaign=curse-of-knowledge)
+append_entries: 1
+Finish: 2024-08-08 12:05:50.400493
+------------------------------------------------------
+Started: 2024-08-08 14:03:39.839535
+Existing_entries: 36
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-08 14:03:40.076720
+------------------------------------------------------
+Started: 2024-08-08 16:04:57.434779
+Existing_entries: 36
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-08 16:04:58.018323
+------------------------------------------------------
+Started: 2024-08-08 18:05:34.116687
+Existing_entries: 36
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-08 18:05:34.385630
+------------------------------------------------------
+Started: 2024-08-08 20:04:51.844188
+Existing_entries: 36
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-08 20:04:52.243715
+------------------------------------------------------
+Started: 2024-08-08 22:03:50.362630
+Existing_entries: 36
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-08 22:03:50.865591
+------------------------------------------------------
+Started: 2024-08-09 00:13:00.296054
+Existing_entries: 36
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-09 00:13:00.570339
+------------------------------------------------------
+Started: 2024-08-09 02:18:25.005965
+Existing_entries: 36
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-09 02:18:25.607116
+------------------------------------------------------
+Started: 2024-08-09 04:04:29.464429
+Existing_entries: 36
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-09 04:04:29.834686
+------------------------------------------------------
+Started: 2024-08-09 06:04:59.497478
+Existing_entries: 36
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-09 06:04:59.898755
+------------------------------------------------------
+Started: 2024-08-09 08:05:48.848028
+Existing_entries: 36
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-09 08:05:49.438104
+------------------------------------------------------
+Started: 2024-08-09 10:04:02.225205
+Existing_entries: 36
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-09 10:04:02.650861
